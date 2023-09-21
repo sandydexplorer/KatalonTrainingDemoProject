@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_java.lang.Object</name>
+   <tag></tag>
+   <elementGuidId>f6ae4038-cadd-42fa-87fb-fe4e341d5feb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Class AbstractWebDriverEventListener'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.inheritance > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9582adcd-b2f0-40fe-a389-9a8f05fd0dfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>java.lang.Object</value>
+      <webElementGuid>9fac525e-145c-4e26-8634-79c7c6db33fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;contentContainer&quot;]/ul[@class=&quot;inheritance&quot;]/li[1]</value>
+      <webElementGuid>99d0fc37-5051-48f3-b012-02eab2121b97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_AbstractWebDriverEventListener/iframe_classFrame</value>
+      <webElementGuid>251f246f-8bfa-486e-89f4-306519b5f254</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Class AbstractWebDriverEventListener'])[1]/following::li[1]</value>
+      <webElementGuid>86093e4a-f48b-4de7-9679-389a68a25a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.support.events'])[1]/following::li[1]</value>
+      <webElementGuid>8c98ad33-9a13-4e33-911e-862704a0018d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.support.events.AbstractWebDriverEventListener'])[1]/preceding::li[1]</value>
+      <webElementGuid>07fc3c6e-f3e2-48db-9615-4b3809d80579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Implemented Interfaces:'])[1]/preceding::li[3]</value>
+      <webElementGuid>0f16e184-14e5-48a0-8ba5-eb2568d977aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='java.lang.Object']/parent::*</value>
+      <webElementGuid>99f0a856-54cc-4889-900c-81dd92782ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/ul/li</value>
+      <webElementGuid>f28a2a4d-8116-410d-85bb-44b9e23ccca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'java.lang.Object' or . = 'java.lang.Object')]</value>
+      <webElementGuid>f42848ac-58c4-472f-8000-0dcc8e9610f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
